@@ -1,0 +1,52 @@
+[
+    {
+        "id": 27,
+        "userId": "62f922b28822f35746b31a22",
+        "mUserId": 1164363887,
+        "mOrderId": 2000004068327114,
+        "mShippingId": 41596047389,
+        "businessId": null,
+        "itemId": [
+            
+                "MLA1153822235",
+                "MLA1153822236"
+            
+        ],
+        "itemDescription": "Item De Prueba - Por Favor, No Ofertar",
+        "quantity": 1,
+        "packId": "2000003758130679",
+        "sku": "IDPPNOR",
+        "shippingStatus": 4,
+        "created": "2022-08-20T17:17:11.000984Z",
+        "modified": "2022-08-20T17:21:01.438064Z",
+        "state": 4,
+        "stateDescription": "La orden fue cancelada por el comprador. Id de mediacion 5142416334",
+        "inProgress": false,
+        "userIdInProgress": null,
+        "inProgressDateTimeTaken": null,
+        "inProgressDateTimeModified": null
+    },
+
+    {
+        "id": 22,
+        "userId": "62f922b28822f35746b31a22",
+        "mUserId": 1164363887,
+        "mOrderId": 2000004068327114,
+        "mShippingId": 41596047389,
+        "businessId": null,
+        "itemId": "MLA1153822235",
+        "itemDescription": "Item De Prueba - Por Favor, No Ofertar",
+        "quantity": 1,
+        "packId": "2000003758130679",
+        "sku": "IDPPNOR",
+        "shippingStatus": 4,
+        "created": "2022-08-20T17:17:11.000984Z",
+        "modified": "2022-08-20T17:21:01.438064Z",
+        "state": 4,
+        "stateDescription": "La orden fue cancelada por el comprador. Id de mediacion 5142416334",
+        "inProgress": false,
+        "userIdInProgress": null,
+        "inProgressDateTimeTaken": null,
+        "inProgressDateTimeModified": null
+    }
+]
